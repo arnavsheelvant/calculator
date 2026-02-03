@@ -5,7 +5,7 @@ int main() {
     float a, b;
 
     scanf("%c %f %f", &op, &a, &b);
-
+   //hi im a calculator
     if (op == '+')
         printf("%.2f", a + b);
     else if (op == '-')

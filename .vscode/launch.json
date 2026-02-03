@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/arnavsheelvant/ATA/se23ucse030_SE2",
+      "program": "/Users/arnavsheelvant/ATA/se23ucse030_SE2/build/Debug/outDebug"
+    }
+  ]
+}

@@ -14,6 +14,11 @@ int main() {
         printf("%.2f", a * b);
     else if (op == '/')
         printf("%.2f", a / b);
-
+    else if (op == '%')
+        printf("%.2f", a % b);
+    else if (op == '^')
+        printf("%.2f", pow(a, b));
     return 0;
 }
+
+
